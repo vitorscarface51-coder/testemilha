@@ -1,0 +1,6 @@
+{
+  "name": "Chat de Clientes CRM",
+  "description": "Um chat interativo similar ao WhatsApp Web para falar com clientes e simular conversas com suporte de IA e co-piloto de respostas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
